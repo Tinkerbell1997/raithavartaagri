@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Raitha-Varta</string>
+
+    <!-- Bottom / Navigation -->
+    <string name="ask_expert">ತಜ್ಞರನ್ನು ಕೇಳಿ</string>
+    <string name="stories">ಕಥೆಗಳು</string>
+    <string name="weather">ಹವಾಮಾನ</string>
+
+    <!-- Home -->
+    <string name="daily_tips">ದೈನಂದಿನ ಸ್ಮಾರ್ಟ್ ಕೃಷಿ ಸಲಹೆಗಳು</string>
+    <string name="today_tips">ಇಂದಿನ ಕೃಷಿ ಸಲಹೆಗಳು</string>
+    <string name="crop_information">ಬೆಳೆ ಮಾಹಿತಿ</string>
+
+    <!-- Weather -->
+    <string name="weather_forecast">ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ</string>
+    <string name="enter_city">ನಗರದ ಹೆಸರು ನಮೂದಿಸಿ</string>
+    <string name="get_weather">ಹವಾಮಾನ ಪಡೆಯಿರಿ</string>
+    <string name="weather_description">ಹವಾಮಾನ ವಿವರ</string>
+    <string name="location">ಸ್ಥಳ</string>
+
+    <!-- Crop Titles -->
+    <string name="paddy_title">ಭತ್ತ</string>
+    <string name="tomato_title">ಟೊಮ್ಯಾಟೊ</string>
+    <string name="coconut_title">ತೆಂಗು</string>
+    <string name="areca_title">ಅಡಿಕೆ</string>
+
+    <!-- Crop Information (Detailed Kannada) -->
+    <string name="paddy_info">
+        ಭತ್ತವು ಬಿಸಿ ಮತ್ತು ತೇವಾಂಶಯುಕ್ತ ಹವಾಮಾನದಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತದೆ. ಬೆಳೆಯ ಆರಂಭಿಕ ಹಂತದಲ್ಲಿ ನೀರಿನ ನಿಲುವು ಅಗತ್ಯವಾಗಿದ್ದು, ಮಣ್ಣಿನಲ್ಲಿ ಸರಿಯಾದ ಪೋಷಕಾಂಶಗಳ ನಿರ್ವಹಣೆ ಮತ್ತು ಕಳಪೆ ನಿಯಂತ್ರಣದಿಂದ ಉತ್ತಮ ಉತ್ಪಾದನೆ ಪಡೆಯಬಹುದು.
+    </string>
+
+    <string name="tomato_info">
+        ಟೊಮ್ಯಾಟೊ ಗಿಡಗಳಿಗೆ ಉತ್ತಮ ಸೂರ್ಯಪ್ರಕಾಶ ಮತ್ತು ನೀರು ಹೊರಹೋಗುವ ಮಣ್ಣು ಅಗತ್ಯ. ನಿಯಮಿತ ನೀರಾವರಿ, ಕೀಟ ನಿಯಂತ್ರಣಕ್ಕಾಗಿ ನಿಂಬೆ ಎಣ್ಣೆ ಸಿಂಪಡಣೆ ಮತ್ತು ಗಿಡಗಳಿಗೆ ಬೆಂಬಲ ನೀಡುವುದು ಉತ್ತಮ ಬೆಳೆಗೆ ಸಹಾಯಕ.
+    </string>
+
+    <string name="coconut_info">
+        ತೆಂಗಿನ ಮರಗಳು ಉಷ್ಣ ಮತ್ತು ತೇವಾಂಶಯುಕ್ತ ಕರಾವಳಿ ಪ್ರದೇಶಗಳಲ್ಲಿ ಉತ್ತಮವಾಗಿ ಬೆಳೆಯುತ್ತವೆ. ಮರಳು ಮಣ್ಣು, ಸರಿಯಾದ ನೀರಾವರಿ ಮತ್ತು ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಉತ್ತಮ ಫಲ ನೀಡಲು ಸಹಾಯಕ.
+    </string>
+
+    <string name="areca_info">
+        ಅಡಿಕೆ ಬೆಳೆಗೆ ನೆರಳು, ತೇವಾಂಶಯುಕ್ತ ಪರಿಸರ ಮತ್ತು ಉತ್ತಮ ನೀರು ಹೊರಹೋಗುವ ಮಣ್ಣು ಅಗತ್ಯ. ನಿಯಮಿತ ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಕೆ ಮತ್ತು ರೋಗ ನಿಯಂತ್ರಣ ಉತ್ತಮ ಉತ್ಪಾದನೆಗಾಗಿ ಮುಖ್ಯವಾಗಿದೆ.
+    </string>
+
+    <!-- Flashcard Tips (2-sentence style) -->
+    <string name="paddy_desc">
+        ಬೆಳಿಗ್ಗೆ ನೀರು ಹಾಯಿಸಿ ಮತ್ತು ಹೊಲದಲ್ಲಿ ತೇವಾಂಶವನ್ನು ಕಾಪಾಡಿ. ಅತಿಯಾದ ನೀರಿನ ನಿಲುವನ್ನು ತಪ್ಪಿಸುವುದು ಬೆಳೆಯ ಆರೋಗ್ಯ ಮತ್ತು ಉತ್ಪಾದನೆಗೆ ಸಹಾಯಕ.
+    </string>
+
+    <string name="tomato_desc">
+        ಸಂಜೆ ವೇಳೆಯಲ್ಲಿ ನೀಮ್ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ಕೀಟಗಳಿಂದ ರಕ್ಷಿಸಿ. ಗಿಡಗಳಿಗೆ ಉತ್ತಮ ಸೂರ್ಯಪ್ರಕಾಶ ಮತ್ತು ಸರಿಯಾದ ನೀರಾವರಿ ಒದಗಿಸಿ.
+    </string>
+
+    <string name="coconut_desc">
+        ಪ್ರತಿ 15 ದಿನಕ್ಕೊಮ್ಮೆ ಸಾವಯವ ಗೊಬ್ಬರ ಬಳಸಿ ಮಣ್ಣಿನ ಫಲವತ್ತತೆ ಹೆಚ್ಚಿಸಿ. ಒಣಗಾಲದಲ್ಲಿ ಸರಿಯಾದ ನೀರಾವರಿ ನೀಡುವುದು ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯಕ.
+    </string>
+
+    <string name="areca_desc">
+        ನೆರಳಿನ ಸರಿಯಾದ ನಿರ್ವಹಣೆ ಮಾಡಿ ಆರೋಗ್ಯಕರ ಬೆಳವಣಿಗೆ ಸಾಧಿಸಿ. ಉತ್ತಮ ಉತ್ಪಾದನೆಗಾಗಿ ನಿಯಮಿತವಾಗಿ ಸಾವಯವ ಗೊಬ್ಬರ ಮತ್ತು ಸರಿಯಾದ ನೀರು ಹೊರಹೋಗುವ ವ್ಯವಸ್ಥೆ ಒದಗಿಸಿ.
+    </string>
+
+</resources>

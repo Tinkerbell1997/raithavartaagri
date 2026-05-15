@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Raitha-Varta</string>
+
+    <!-- Bottom/Nav -->
+    <string name="ask_expert">Ask Expert</string>
+    <string name="stories">Stories</string>
+    <string name="weather">Weather</string>
+
+    <!-- Home -->
+    <string name="daily_tips">Daily Smart Farming Tips</string>
+    <string name="today_tips">Todays Tips</string>
+    <string name="crop_information">Crop Information</string>
+
+    <!-- Weather -->
+    <string name="weather_forecast">Weather Forecast</string>
+    <string name="enter_city">Enter city name</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="weather_description">Weather description</string>
+    <string name="location">Location</string>
+
+    <!-- Crop Titles -->
+    <string name="paddy_title">Paddy</string>
+    <string name="tomato_title">Tomato</string>
+    <string name="coconut_title">Coconut</string>
+    <string name="areca_title">Areca Nut</string>
+
+    <!-- Crop Information (DETAILED) -->
+    <string name="paddy_info">
+        Paddy is a water-intensive crop that grows best in warm and humid climates. It requires standing water during early growth stages and thrives in clay or loamy soil. Proper irrigation, nitrogen-rich fertilizers, and weed control are essential for high yield.
+    </string>
+
+    <string name="tomato_info">
+        Tomato is a widely cultivated vegetable crop that requires full sunlight and well-drained soil. Regular watering is needed, but water stagnation should be avoided. Support plants using stakes and protect them from pests using neem-based sprays.
+    </string>
+
+    <string name="coconut_info">
+        Coconut trees grow best in tropical and coastal regions with high humidity. They require sandy soil, good drainage, and regular organic manure. Proper irrigation during dry seasons improves nut production and tree health.
+    </string>
+
+    <string name="areca_info">
+        Areca nut is a commercial plantation crop that grows well in shaded and humid conditions. It requires well-drained soil, regular organic fertilizer application, and proper spacing. Disease management and irrigation are important for good yield.
+    </string>
+
+    <!-- Flashcard Tips -->
+    <string name="paddy_desc">
+    Water early in the morning and maintain proper field moisture. Avoid overwatering as it can reduce crop health and yield.
+</string>
+
+    <string name="tomato_desc">
+    Spray neem oil in the evening to protect plants from pests. Ensure proper sunlight and avoid excess water stagnation around roots.
+</string>
+
+    <string name="coconut_desc">
+    Apply compost every 15 days to improve soil fertility. Maintain proper irrigation especially during dry seasons for better growth.
+</string>
+
+    <string name="areca_desc">
+    Maintain proper shade conditions for healthy growth. Use organic manure regularly and ensure good drainage in the field.
+</string>
+
+</resources>

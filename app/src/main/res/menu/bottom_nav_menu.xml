@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- HOME -->
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/daily_tips"
+        android:icon="@android:drawable/ic_menu_view"/>
+
+    <!-- WEATHER -->
+    <item
+        android:id="@+id/nav_weather"
+        android:title="@string/weather"
+        android:icon="@android:drawable/ic_menu_compass"/>
+
+    <!-- ASK EXPERT -->
+    <item
+        android:id="@+id/nav_expert"
+        android:title="@string/ask_expert"
+        android:icon="@android:drawable/ic_menu_help"/>
+
+    <!-- SUCCESS STORIES -->
+    <item
+        android:id="@+id/nav_success"
+        android:title="@string/stories"
+        android:icon="@drawable/ic_success"/>
+
+</menu>
